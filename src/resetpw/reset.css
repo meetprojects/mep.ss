@@ -7,7 +7,7 @@ body{
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     left: 50%;
-    background:#CACCF1 url("/mep/src/image/world.jpg") no-repeat left top;
+    background:#CACCF1 url("/mep.ss/src/image/world.jpg") no-repeat left top;
     text-align: center;
 }
 
