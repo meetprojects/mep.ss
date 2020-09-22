@@ -8,7 +8,7 @@ body{
     -moz-osx-font-smoothing: grayscale;
     top: 50%;
     left: 50%;
-    background:#CACCF1 url("/mep/src/image/world.jpg") no-repeat left top;
+    background:#CACCF1 url("/mep.ss/src/image/world.jpg") no-repeat left top;
 }
 
 .purpose{
@@ -28,7 +28,7 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background: url("/mep/src/image/right.png") no-repeat right top,url("/mep/src/image/left.png") no-repeat left bottom;
+    background: url("/mep.ss/src/image/right.png") no-repeat right top,url("/mep.ss/src/image/left.png") no-repeat left bottom;
     text-align: center;
 
 }
